@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     system("git add .");
-    system("git commit \"Perhap changed the map\"");
+    system("git commit -m \"Perhap changed the map\"");
     system("git push -u origin master");
     cout << "Succeed" << endl;
 	cin.get();
