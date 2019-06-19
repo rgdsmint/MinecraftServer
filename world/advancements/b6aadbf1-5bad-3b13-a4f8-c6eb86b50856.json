@@ -759,6 +759,7 @@
     "criteria": {
       "wither_skeleton": "2019-06-19 09:58:13 +0800",
       "zombie_villager": "2019-06-18 14:14:52 +0800",
+      "magma_cube": "2019-06-19 18:45:52 +0800",
       "skeleton": "2019-06-18 20:15:50 +0800",
       "husk": "2019-06-19 10:37:58 +0800",
       "blaze": "2019-06-19 10:06:34 +0800",
@@ -1198,6 +1199,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-06-18 21:08:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2019-06-19 18:46:38 +0800"
     },
     "done": true
   },
