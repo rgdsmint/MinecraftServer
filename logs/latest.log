@@ -1,28 +1,110 @@
-[09:12:10] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[09:12:10] [Server thread/INFO]: Loading properties
-[09:12:10] [Server thread/INFO]: Default game type: SURVIVAL
-[09:12:10] [Server thread/INFO]: Generating keypair
-[09:12:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:12:11] [Server thread/INFO]: Using epoll channel type
-[09:12:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:12:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:12:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:12:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:12:11] [Server thread/INFO]: Preparing level "world"
-[09:12:12] [Server thread/INFO]: Loaded 488 advancements
-[09:12:12] [Server thread/INFO]: Preparing start region for level 0
-[09:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[09:12:14] [Server thread/INFO]: Preparing spawn area: 22%
-[09:12:15] [Server thread/INFO]: Preparing spawn area: 55%
-[09:12:16] [Server thread/INFO]: Done (4.781s)! For help, type "help" or "?"
-[09:12:27] [Server thread/INFO]: RgdsMint[/120.242.30.61:37595] logged in with entity id 122 at (-392.5, 64.0, 74.5)
-[09:12:27] [Server thread/INFO]: RgdsMint joined the game
-[09:12:48] [Server thread/INFO]: RgdsMint lost connection: Disconnected
-[09:12:48] [Server thread/INFO]: RgdsMint left the game
-[09:12:57] [Server thread/INFO]: Stopping the server
-[09:12:57] [Server thread/INFO]: Stopping server
-[09:12:57] [Server thread/INFO]: Saving players
-[09:12:57] [Server thread/INFO]: Saving worlds
-[09:12:57] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[09:12:57] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[09:12:57] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[09:19:03] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[09:19:03] [Server thread/INFO]: Loading properties
+[09:19:03] [Server thread/INFO]: Default game type: SURVIVAL
+[09:19:03] [Server thread/INFO]: Generating keypair
+[09:19:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:19:03] [Server thread/INFO]: Using epoll channel type
+[09:19:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:19:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:19:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:19:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:19:03] [Server thread/INFO]: Preparing level "world"
+[09:19:04] [Server thread/INFO]: Loaded 488 advancements
+[09:19:04] [Server thread/INFO]: Preparing start region for level 0
+[09:19:05] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:06] [Server thread/INFO]: Preparing spawn area: 23%
+[09:19:07] [Server thread/INFO]: Preparing spawn area: 65%
+[09:19:08] [Server thread/INFO]: Done (4.644s)! For help, type "help" or "?"
+[09:19:20] [Server thread/INFO]: RgdsMint[/120.242.30.61:37177] logged in with entity id 120 at (-396.09051821553794, 64.0, 74.62606302297189)
+[09:19:20] [Server thread/INFO]: RgdsMint joined the game
+[09:19:37] [Server thread/INFO]: RgdsMint lost connection: Disconnected
+[09:19:37] [Server thread/INFO]: RgdsMint left the game
+[09:21:01] [Server thread/INFO]: RgdsMint[/120.242.30.61:37310] logged in with entity id 288 at (-392.62984138813096, 64.5625, 74.91954852675622)
+[09:21:01] [Server thread/INFO]: RgdsMint joined the game
+[09:48:23] [Server thread/WARN]: RgdsMint moved too quickly! 316.0,3.0,-77.5033241255504
+[09:50:43] [Server thread/WARN]: RgdsMint moved too quickly! -316.0,-3.0,77.28443338271137
+[09:51:00] [Server thread/INFO]: RgdsMint lost connection: Disconnected
+[09:51:00] [Server thread/INFO]: RgdsMint left the game
+[09:54:15] [Server thread/INFO]: RgdsMint[/120.242.30.61:37440] logged in with entity id 21888 at (-396.30000001192093, 64.0, 75.37290359181524)
+[09:54:15] [Server thread/INFO]: RgdsMint joined the game
+[09:54:26] [Server thread/INFO]: liuhua[/120.242.28.181:9100] logged in with entity id 22054 at (-554.1182302461622, 14.0, 210.56239447775565)
+[09:54:26] [Server thread/INFO]: liuhua joined the game
+[09:55:12] [Server thread/INFO]: [RgdsMint: Opped liuhua]
+[09:55:31] [Server thread/INFO]: [liuhua: Teleported liuhua to RgdsMint]
+[09:55:47] [Server thread/WARN]: RgdsMint moved too quickly! 316.0,3.0,-78.5278260644056
+[09:57:41] [Server thread/WARN]: RgdsMint moved too quickly! 316.0,3.0,-78.50424319156367
+[09:57:41] [Server thread/INFO]: liuhua has made the advancement [We Need to Go Deeper]
+[09:58:27] [Server thread/INFO]: RgdsMint was slain by Wither Skeleton
+[09:59:08] [Server thread/INFO]: liuhua has made the advancement [A Terrible Fortress]
+[09:59:14] [Server thread/INFO]: RgdsMint has made the advancement [A Terrible Fortress]
+[10:01:53] [Server thread/INFO]: liuhua has made the advancement [Into Fire]
+[10:04:55] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to RgdsMint]
+[10:04:59] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:06:07] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:08:53] [Server thread/INFO]: RgdsMint has made the advancement [Into Fire]
+[10:10:42] [Server thread/INFO]: liuhua was fireballed by Blaze
+[10:10:45] [Server thread/INFO]: RgdsMint burned to death
+[10:15:32] [Server thread/INFO]: liuhua has made the advancement [A Seedy Place]
+[10:25:24] [Server thread/INFO]: <RgdsMint> shui jiao
+[10:27:42] [Server thread/WARN]: Boat moved wrongly!
+[10:31:01] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:37:11] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:37:37] [Server thread/INFO]: RgdsMint was slain by Enderman
+[10:37:43] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:39:46] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:41:50] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:42:58] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:44:55] [Server thread/INFO]: RgdsMint fell out of the world
+[10:44:55] [Server thread/INFO]: [RgdsMint: Killed RgdsMint]
+[10:45:29] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:50:45] [Server thread/INFO]: RgdsMint has made the advancement [Not Today, Thank You]
+[10:51:45] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:52:35] [Server thread/INFO]: RgdsMint was slain by Enderman
+[10:52:38] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:52:53] [Server thread/INFO]: liuhua has made the advancement [Not Today, Thank You]
+[10:56:49] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[10:57:37] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:02:05] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:02:38] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to -396.5, 65.0, -220.5]
+[11:02:42] [Server thread/INFO]: RgdsMint suffocated in a wall
+[11:03:02] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to -396.5, 64.0, 74.5]
+[11:03:45] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:05:50] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:08:08] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:08:33] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:11:55] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:13:48] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:15:28] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:21:47] [Server thread/INFO]: <RgdsMint> kill RgdsMint
+[11:21:52] [Server thread/INFO]: RgdsMint fell out of the world
+[11:21:52] [Server thread/INFO]: [RgdsMint: Killed RgdsMint]
+[11:22:31] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:22:36] [Server thread/INFO]: liuhua fell out of the world
+[11:22:36] [Server thread/INFO]: [liuhua: Killed liuhua]
+[11:22:50] [Server thread/INFO]: [RgdsMint: Set the time to 1000]
+[11:23:09] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:26:17] [Server thread/WARN]: liuhua moved too quickly! 316.0,3.0,-78.15538865566944
+[11:26:55] [Server thread/INFO]: RgdsMint fell from a high place
+[11:29:13] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:32:33] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:33:52] [Server thread/INFO]: liuhua has made the advancement [The Parrots and the Bats]
+[11:38:38] [Server thread/INFO]: [RgdsMint: Teleported RgdsMint to liuhua]
+[11:42:05] [Server thread/INFO]: RgdsMint has made the advancement [Enchanter]
+[11:43:55] [Server thread/INFO]: liuhua has made the advancement [Enchanter]
+[11:51:38] [Server thread/INFO]: RgdsMint lost connection: Disconnected
+[11:51:38] [Server thread/INFO]: RgdsMint left the game
+[11:51:41] [Server thread/INFO]: liuhua lost connection: Disconnected
+[11:51:41] [Server thread/INFO]: liuhua left the game
+[11:52:25] [Server thread/INFO]: Stopping the server
+[11:52:26] [Server thread/INFO]: Stopping server
+[11:52:26] [Server thread/INFO]: Saving players
+[11:52:26] [Server thread/INFO]: Saving worlds
+[11:52:26] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[11:52:26] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[11:52:26] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[11:52:26] [Server Shutdown Thread/INFO]: Stopping server
+[11:52:26] [Server Shutdown Thread/INFO]: Saving players
+[11:52:26] [Server Shutdown Thread/INFO]: Saving worlds
+[11:52:26] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[11:52:26] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[11:52:26] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
