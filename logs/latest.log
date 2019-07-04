@@ -1,32 +1,21 @@
-[18:36:47] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[18:36:47] [Server thread/INFO]: Loading properties
-[18:36:47] [Server thread/INFO]: Default game type: SURVIVAL
-[18:36:47] [Server thread/INFO]: Generating keypair
-[18:36:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:36:47] [Server thread/INFO]: Using epoll channel type
-[18:36:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:36:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:36:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:36:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:36:48] [Server thread/INFO]: Preparing level "world"
-[18:36:49] [Server thread/INFO]: Loaded 488 advancements
-[18:36:49] [Server thread/INFO]: Preparing start region for level 0
-[18:36:50] [Server thread/INFO]: Preparing spawn area: 0%
-[18:36:51] [Server thread/INFO]: Preparing spawn area: 28%
-[18:36:52] [Server thread/INFO]: Preparing spawn area: 64%
-[18:36:52] [Server thread/INFO]: Done (4.589s)! For help, type "help" or "?"
-[18:37:36] [Server thread/INFO]: RgdsMint[/120.242.30.61:37079] logged in with entity id 112 at (-382.92490111804057, 65.0, 83.39129451324004)
-[18:37:36] [Server thread/INFO]: RgdsMint joined the game
-[18:37:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2041ms behind, skipping 40 tick(s)
-[18:42:05] [Server thread/WARN]: RgdsMint moved too quickly! 316.0,3.0,-78.79898313641621
-[18:48:24] [Server thread/INFO]: RgdsMint fell out of the world
-[18:48:24] [Server thread/INFO]: [RgdsMint: Killed RgdsMint]
-[18:49:30] [Server thread/INFO]: RgdsMint lost connection: Disconnected
-[18:49:30] [Server thread/INFO]: RgdsMint left the game
-[18:50:25] [Server thread/INFO]: Stopping the server
-[18:50:25] [Server thread/INFO]: Stopping server
-[18:50:25] [Server thread/INFO]: Saving players
-[18:50:25] [Server thread/INFO]: Saving worlds
-[18:50:25] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[18:50:25] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[18:50:25] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[22:21:52] [Server thread/INFO]: Loading properties
+[22:21:52] [Server thread/INFO]: Default game type: SURVIVAL
+[22:21:52] [Server thread/INFO]: Generating keypair
+[22:21:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:21:52] [Server thread/INFO]: Using epoll channel type
+[22:21:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:21:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:21:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:21:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:21:52] [Server thread/INFO]: Preparing level "world"
+[22:21:53] [Server thread/INFO]: Loaded 488 advancements
+[22:21:53] [Server thread/INFO]: Preparing start region for level 0
+[22:21:54] [Server thread/INFO]: Preparing spawn area: 0%
+[22:21:55] [Server thread/INFO]: Preparing spawn area: 25%
+[22:21:56] [Server thread/INFO]: Preparing spawn area: 68%
+[22:21:57] [Server thread/INFO]: Done (4.487s)! For help, type "help" or "?"
+[22:28:59] [Server thread/INFO]: RgdsMint[/120.242.28.89:30145] logged in with entity id 110 at (-385.2202178228276, 65.0, 84.10164249572259)
+[22:28:59] [Server thread/INFO]: RgdsMint joined the game
+[22:30:46] [Server thread/INFO]: RgdsMint lost connection: Disconnected
+[22:30:46] [Server thread/INFO]: RgdsMint left the game
+[22:31:59] [Server Shutdown Thread/INFO]: Stopping server
